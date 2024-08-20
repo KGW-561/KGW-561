@@ -10,6 +10,8 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KGW-561&show_icons=true&theme=radical)
+
 
 # Hi there 👋
 ## Hi there 👋
